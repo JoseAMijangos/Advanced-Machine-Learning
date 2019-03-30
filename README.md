@@ -1,2 +1,2 @@
-# CCDD_Classifier
-Advanced Machine Learnning group project.
+# Python code for Data science
+Advanced Machine Learnning assigments and projects.
